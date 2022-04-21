@@ -1,0 +1,9 @@
+1. What is a class ? - class is a blueprint of an object
+	we create instance from classes, called object
+2. What is an Object ?
+
+3. What are the 4 pillars of oops
+
+4. what is A and then E and then I and then P
+
+5. How do achive Polymorphism

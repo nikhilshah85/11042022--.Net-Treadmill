@@ -1,0 +1,8 @@
+C:\Users\trainer\Desktop\day4\first_Program\first_Program\bin\Debug\first_Program.exe.config
+C:\Users\trainer\Desktop\day4\first_Program\first_Program\bin\Debug\first_Program.exe
+C:\Users\trainer\Desktop\day4\first_Program\first_Program\bin\Debug\first_Program.pdb
+C:\Users\trainer\Desktop\day4\first_Program\first_Program\obj\Debug\first_Program.csproj.AssemblyReference.cache
+C:\Users\trainer\Desktop\day4\first_Program\first_Program\obj\Debug\first_Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\trainer\Desktop\day4\first_Program\first_Program\obj\Debug\first_Program.csproj.CoreCompileInputs.cache
+C:\Users\trainer\Desktop\day4\first_Program\first_Program\obj\Debug\first_Program.exe
+C:\Users\trainer\Desktop\day4\first_Program\first_Program\obj\Debug\first_Program.pdb

@@ -1,0 +1,107 @@
+			OOPS
+	Object Oriented Programming Structure/System
+
+	C Progaramming - dennis riche
+	C++  is with OOPS - Bjarne Strouptus
+		concept of OOPS was taken from smalltalk
+	C# and .Net    - Andres Heilsberg (and now also Typescript)
+
+	C 
+	became stronger 
+	C++
+	became more stronger
+	C#
+	OOPS comes with 4 Pillars we need to implement this 4 pilars
+
+
+
+
+
+
+		To Create an Application, use OOPS to program
+
+			Objects - everything is an object
+				every object has
+				-Properties - which describes the object
+				- Methods/Functions - actions - behaviour of an object
+
+
+		Object is an real world entity
+		A software developer, understand which object needs to put into a machine
+
+		To understand this object and program it, there 4 simple pillars
+
+	Abstraction - This pillar says you should consider only those properties and methods which	
+			are in scope of a software
+
+			Eg. Accounts object in banking system
+				accNo,accName, accType,accIfsc, accEmail etc..
+					how about bloodGroup ? - this is not relevant
+		
+				methods : widraw, deposit, transfer, lastlast5transactions etc...
+					eatingHabbits ???
+					SpendingHabbits
+
+	
+			but for an Patient object in a Hospital app
+					bloodGroup 
+					eatingHabbits 
+		its not only properties and methods, we have enums, constructors, events, delegates etc.
+
+
+	Encapsulation - with the help of Properties and methods, create a software easy to use but very 
+			difficult to understand how it works
+
+	Inheritance - Reuse the code as much as possible, this will save time but help in performance
+
+	polymorphism - Same object, different behaviour
+		in banking app (Widraw method)
+			Savings acc holder can widraw max 20K in a day
+			Current acc holder can widraw max 50K in a day
+			PF cannot widraw same day
+
+
+	----------
+	Class - is a blue print / design of an object
+		Properties - the getter and setter for variables
+
+	encapsulation is achived by writting properties and methods
+	inheritance is achived by using : on the class
+	polymorphism - we mark method as virtual in parent class and overrides in child class
+
+
+
+
+
+
+
+
+					
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

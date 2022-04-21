@@ -1,0 +1,8 @@
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 2\OOPS_Demo\OOPS_Demo\bin\Debug\OOPS_Demo.exe.config
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 2\OOPS_Demo\OOPS_Demo\bin\Debug\OOPS_Demo.exe
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 2\OOPS_Demo\OOPS_Demo\bin\Debug\OOPS_Demo.pdb
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 2\OOPS_Demo\OOPS_Demo\obj\Debug\OOPS_Demo.csproj.AssemblyReference.cache
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 2\OOPS_Demo\OOPS_Demo\obj\Debug\OOPS_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 2\OOPS_Demo\OOPS_Demo\obj\Debug\OOPS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 2\OOPS_Demo\OOPS_Demo\obj\Debug\OOPS_Demo.exe
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 2\OOPS_Demo\OOPS_Demo\obj\Debug\OOPS_Demo.pdb

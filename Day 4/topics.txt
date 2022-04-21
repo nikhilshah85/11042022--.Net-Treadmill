@@ -1,0 +1,13 @@
+1. Two-tier arch
+2. Class, switch cases, loops, conditiond etc..
+
+	a. Use of constructor
+		default constructor
+		parameterised constructor
+		named parameter (this works same way with methods)
+		default values for parameter (same with methods)
+	b. enums - strict set of values
+	c. static  - single object, variable per application
+	d. sealed class
+	e. abstract class
+	

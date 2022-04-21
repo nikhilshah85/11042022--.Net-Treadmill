@@ -1,0 +1,8 @@
+C:\Users\trainer\Desktop\fileIO_demo\fileIO_demo\bin\Debug\fileIO_demo.exe.config
+C:\Users\trainer\Desktop\fileIO_demo\fileIO_demo\bin\Debug\fileIO_demo.exe
+C:\Users\trainer\Desktop\fileIO_demo\fileIO_demo\bin\Debug\fileIO_demo.pdb
+C:\Users\trainer\Desktop\fileIO_demo\fileIO_demo\obj\Debug\fileIO_demo.csproj.AssemblyReference.cache
+C:\Users\trainer\Desktop\fileIO_demo\fileIO_demo\obj\Debug\fileIO_demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\trainer\Desktop\fileIO_demo\fileIO_demo\obj\Debug\fileIO_demo.csproj.CoreCompileInputs.cache
+C:\Users\trainer\Desktop\fileIO_demo\fileIO_demo\obj\Debug\fileIO_demo.exe
+C:\Users\trainer\Desktop\fileIO_demo\fileIO_demo\obj\Debug\fileIO_demo.pdb

@@ -1,0 +1,11 @@
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\bin\Debug\bankingConsole2.exe.config
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\bin\Debug\bankingConsole2.exe
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\bin\Debug\bankingConsole2.pdb
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\bin\Debug\bankingLIB2.dll
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\bin\Debug\bankingLIB2.pdb
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\obj\Debug\bankingConsole2.csproj.AssemblyReference.cache
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\obj\Debug\bankingConsole2.csproj.SuggestedBindingRedirects.cache
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\obj\Debug\bankingConsole2.csproj.CoreCompileInputs.cache
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\obj\Debug\bankingConsole2.csproj.CopyComplete
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\obj\Debug\bankingConsole2.exe
+C:\Users\trainer\Desktop\110422 - .Net Programming\Day 4\bankingConsole2\bankingConsole2\obj\Debug\bankingConsole2.pdb
