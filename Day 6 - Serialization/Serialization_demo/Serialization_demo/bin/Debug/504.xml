@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Accounts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <accNo>504</accNo>
+  <accName>Yash</accName>
+  <accType>PF</accType>
+  <accBalance>18000</accBalance>
+  <accEmail>yash@gmail.com</accEmail>
+  <accIsActive>false</accIsActive>
+</Accounts>

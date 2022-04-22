@@ -1,0 +1,23 @@
+FileIO - is not based for storeing the objects
+
+If you want to store the complete object in a file 
+
+
+			Serialization
+
+		Serialization is an concept, which allows you to Persist, the state of an object to a storage
+
+			to store it to a file - use fileIO
+			to store it to a db   - use ADO.Net
+
+
+		How to use Serialization 
+		System.Runtime.Serialization
+
+		store the data in differnt formats
+			a. binary format (light weignt and fastest)
+			b. XML (this is for cross communication) (between .net and java or c++)
+			c. SOAP (this is used in Web service)
+			d. JSON (most modern format, light weight, and very fast) - rest api service
+
+		Store the Object on a disk using file IO

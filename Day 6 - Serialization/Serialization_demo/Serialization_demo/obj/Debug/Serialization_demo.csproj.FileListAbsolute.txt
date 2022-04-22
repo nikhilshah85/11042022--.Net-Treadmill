@@ -1,0 +1,8 @@
+C:\Users\trainer\Desktop\Serialization_demo\Serialization_demo\bin\Debug\Serialization_demo.exe.config
+C:\Users\trainer\Desktop\Serialization_demo\Serialization_demo\bin\Debug\Serialization_demo.exe
+C:\Users\trainer\Desktop\Serialization_demo\Serialization_demo\bin\Debug\Serialization_demo.pdb
+C:\Users\trainer\Desktop\Serialization_demo\Serialization_demo\obj\Debug\Serialization_demo.csproj.AssemblyReference.cache
+C:\Users\trainer\Desktop\Serialization_demo\Serialization_demo\obj\Debug\Serialization_demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\trainer\Desktop\Serialization_demo\Serialization_demo\obj\Debug\Serialization_demo.csproj.CoreCompileInputs.cache
+C:\Users\trainer\Desktop\Serialization_demo\Serialization_demo\obj\Debug\Serialization_demo.exe
+C:\Users\trainer\Desktop\Serialization_demo\Serialization_demo\obj\Debug\Serialization_demo.pdb
