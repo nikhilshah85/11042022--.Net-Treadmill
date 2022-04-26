@@ -1,0 +1,11 @@
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\bin\Debug\EmpManagement.exe.config
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\bin\Debug\EmpManagement.exe
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\bin\Debug\EmpManagement.pdb
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\obj\Debug\EmpManagement.csproj.AssemblyReference.cache
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\obj\Debug\EmpManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\obj\Debug\EmpManagement.Form1.resources
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\obj\Debug\EmpManagement.Properties.Resources.resources
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\obj\Debug\EmpManagement.csproj.GenerateResource.cache
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\obj\Debug\EmpManagement.csproj.CoreCompileInputs.cache
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\obj\Debug\EmpManagement.exe
+C:\Users\trainer\Desktop\EmpManagement\EmpManagement\obj\Debug\EmpManagement.pdb

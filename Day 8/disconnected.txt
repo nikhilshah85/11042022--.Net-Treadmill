@@ -1,0 +1,29 @@
+create table employeedetails
+(
+	empId int primary key,
+	empName varchar(20),
+	empDesignation varchar(20),
+	empSalary int,
+	empIsPermenant bit,
+	empCity varchar(20)
+)
+
+
+insert into [dbo].[employeedetails] values(101,'Nikhil','Consultatnt',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(102,'Aman','HR',5000,1,'Pune')
+insert into [dbo].[employeedetails] values(103,'Amrita','Accounts',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(104,'Sonali','Consultatnt',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(105,'Ramesh','HR',5000,1,'Chennai')
+insert into [dbo].[employeedetails] values(106,'Suresh','Accounts',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(107,'Karan','HR',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(108,'Vinit','Consultatnt',5000,1,'Pune')
+insert into [dbo].[employeedetails] values(109,'Mohan','Accounts',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(110,'Suresh','HR',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(1011,'Honey','Consultatnt',5000,1,'Chennai')
+insert into [dbo].[employeedetails] values(1012,'Monil','Accounts',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(113,'Pratik','HR',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(114,'Aditya','Consultatnt',5000,1,'Chennai')
+insert into [dbo].[employeedetails] values(115,'Sumukh','Consultatnt',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(116,'Riya','HR',5000,1,'Pune')
+insert into [dbo].[employeedetails] values(117,'Jiya','Accounts',5000,1,'Mumbai')
+insert into [dbo].[employeedetails] values(118,'Diya','Consultatnt',5000,1,'Pune')

@@ -1,0 +1,16 @@
+ADO.net is greate for databases
+
+	but how to work with other data sources ?
+	Database - (ADO.net) - learn this
+	Collections (List) (Data Structure) - learn it
+	FileSystem - filesystem (Learn it)
+	AD - OLEDB (learn it)
+	Mail box (OLEDB) (learn)
+	XML Files (XPath and XQuery) - bit difficult then programming, learn it
+
+
+		Instead - use LINQ
+
+
+	how to wrk in same way with any kind f data, 
+		LINQ (Language Integrated Query) - connect to any data source and use the same language to work with data
